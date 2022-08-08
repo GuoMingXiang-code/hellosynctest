@@ -1,0 +1,8 @@
+version: 1.2
+workflows:
+  - subclass: WDL
+    primaryDescriptorPath: /hellosynctest.wdl
+    testParameterFiles: 
+    authors:
+      - name: gmx
+        email: gmx18525373056@163.com
